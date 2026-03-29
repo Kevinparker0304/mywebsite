@@ -1,10 +1,6 @@
-title: Auditing made simple
-description: IT Auditor | Cybersecurity | Risk & Controls
-theme: minima
+title: Auditing
+description: IT Auditor | Cybersecurity
 
-author:
-  name: Himanshu Pokharkar
-
-header_pages:
-  - about.md
-  - projects.md
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
