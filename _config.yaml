@@ -1,0 +1,6 @@
+title: Your Name
+theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
