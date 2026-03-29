@@ -1,6 +1,14 @@
-title: Your Name
+title: Himanshu
+description: IT Auditor | Cybersecurity | Risk & Controls
 theme: minima
+
+author:
+  name: Your Name
+  email: your@email.com
 
 header_pages:
   - about.md
   - projects.md
+
+# Optional settings
+show_excerpts: true
