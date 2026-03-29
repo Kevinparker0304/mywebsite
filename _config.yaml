@@ -1,6 +1,16 @@
-title: Auditing
-description: IT Auditor | Cybersecurity
+title: Your Name
+description: IT Auditor | Cybersecurity | Risk & Controls
 
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
+
+# Author profile
+author:
+  name: Your Name
+  bio: IT Auditor | Cybersecurity | Risk & Controls
