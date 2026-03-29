@@ -1,16 +1,27 @@
 ---
-layout: page
-title: About
+layout: home
+author_profile: true
+title: Home
 ---
 
-## About Me
+## About this site
 
-I work in IT Audit within financial services.
+I share practical insights on:
 
-My focus areas:
-- IT General Controls  
-- Access management  
+- IT General Controls (ITGC)  
+- Access management risks  
 - Change management  
-- Cloud risk  
+- Cloud and infrastructure security  
 
-This site is where I share practical insights.
+---
+
+## Focus areas
+
+- IT Audit & Controls  
+- Cybersecurity fundamentals  
+- Risk and compliance  
+- Real-world audit observations  
+
+---
+
+## Latest Posts
