@@ -1,14 +1,10 @@
-title: Himanshu
+title: Auditing made simple
 description: IT Auditor | Cybersecurity | Risk & Controls
 theme: minima
 
 author:
-  name: Your Name
-  email: your@email.com
+  name: Himanshu Pokharkar
 
 header_pages:
   - about.md
   - projects.md
-
-# Optional settings
-show_excerpts: true
